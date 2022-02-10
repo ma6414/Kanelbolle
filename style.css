@@ -10,4 +10,5 @@
     font-size: 45px;
     color: goldenrod;
     background-color: darkolivegreen;
+    background-image: -webkit-repeating-linear-gradient();
 }
