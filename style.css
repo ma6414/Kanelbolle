@@ -3,12 +3,22 @@
     font-family: 'Oxygen', sans-serif;
 }
 
+body {
+    background-color: darkgreen;
+
+}
+
+
 .text {
     text-align: center;
     padding-top: 200px;
     font-weight:bold;
     font-size: 45px;
     color: goldenrod;
-    background-color: darkolivegreen;
-    background-image: -webkit-repeating-linear-gradient();
-}
+    
+.text span {
+    color:
+} 
+
+
+
